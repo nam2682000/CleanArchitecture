@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProject\\WebBase\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|d:\\myproject\\webbase\\webapp\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|d:\\myproject\\webbase\\webapp\\web.aplication\\features\\course\\queries\\handler\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|solutionrelative:web.aplication\\features\\course\\queries\\handler\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|d:\\myproject\\webbase\\webapp\\web.aplication\\features\\course\\command\\handler\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|solutionrelative:web.aplication\\features\\course\\command\\handler\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|d:\\myproject\\webbase\\webapp\\web.aplication\\features\\course\\command\\request\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|solutionrelative:web.aplication\\features\\course\\command\\request\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|d:\\myproject\\webbase\\webapp\\web.aplication\\modal\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|solutionrelative:web.aplication\\modal\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|d:\\myproject\\webbase\\webapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|d:\\myproject\\webbase\\webapp\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|d:\\myproject\\webbase\\webapp\\api\\dependency\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB74423-8004-479F-A980-451F2EA95557}|API\\API.csproj|solutionrelative:api\\dependency\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\APICore8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F491A4-1248-40C7-9534-DD97A61D4B82}|Web.Infrastructure\\Web.Infrastructure.csproj|d:\\myproject\\webbase\\webapp\\web.infrastructure\\authentication\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F491A4-1248-40C7-9534-DD97A61D4B82}|Web.Infrastructure\\Web.Infrastructure.csproj|solutionrelative:web.infrastructure\\authentication\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07287A88-9CD2-4C5E-B3D9-07901B0F1889}|Web.Persistence\\Web.Persistence.csproj|d:\\myproject\\webbase\\webapp\\web.persistence\\common\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07287A88-9CD2-4C5E-B3D9-07901B0F1889}|Web.Persistence\\Web.Persistence.csproj|solutionrelative:web.persistence\\common\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07287A88-9CD2-4C5E-B3D9-07901B0F1889}|Web.Persistence\\Web.Persistence.csproj|d:\\myproject\\webbase\\webapp\\web.persistence\\common\\migratedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07287A88-9CD2-4C5E-B3D9-07901B0F1889}|Web.Persistence\\Web.Persistence.csproj|solutionrelative:web.persistence\\common\\migratedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07287A88-9CD2-4C5E-B3D9-07901B0F1889}|Web.Persistence\\Web.Persistence.csproj|d:\\myproject\\webbase\\webapp\\web.persistence\\common\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07287A88-9CD2-4C5E-B3D9-07901B0F1889}|Web.Persistence\\Web.Persistence.csproj|solutionrelative:web.persistence\\common\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|d:\\myproject\\webbase\\webapp\\web.aplication\\interface\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|solutionrelative:web.aplication\\interface\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|d:\\myproject\\webbase\\webapp\\web.aplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|solutionrelative:web.aplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|d:\\myproject\\webbase\\webapp\\web.aplication\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D183574-C001-44C6-BFBB-C57FE95B8D65}|Web.Aplication\\Web.Aplication.csproj|solutionrelative:web.aplication\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92505225-8D23-42A8-8E39-B4B7A5C84102}|Web.Domain\\Web.Domain.csproj|d:\\myproject\\webbase\\webapp\\web.domain\\common\\baseentityauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92505225-8D23-42A8-8E39-B4B7A5C84102}|Web.Domain\\Web.Domain.csproj|solutionrelative:web.domain\\common\\baseentityauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetStudentListHandler.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Features\\Course\\Queries\\Handler\\GetStudentListHandler.cs",
+              "RelativeDocumentMoniker": "Web.Aplication\\Features\\Course\\Queries\\Handler\\GetStudentListHandler.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Features\\Course\\Queries\\Handler\\GetStudentListHandler.cs",
+              "RelativeToolTip": "Web.Aplication\\Features\\Course\\Queries\\Handler\\GetStudentListHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:03:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Features\\Course\\Command\\Handler\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "Web.Aplication\\Features\\Course\\Command\\Handler\\UpdateStudentHandler.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Features\\Course\\Command\\Handler\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "Web.Aplication\\Features\\Course\\Command\\Handler\\UpdateStudentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:00:48.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Features\\Course\\Command\\Request\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "Web.Aplication\\Features\\Course\\Command\\Request\\UpdateStudentCommand.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Features\\Course\\Command\\Request\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "Web.Aplication\\Features\\Course\\Command\\Request\\UpdateStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:58:59.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:53:33.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T09:41:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Modal\\UserModel.cs",
+              "RelativeDocumentMoniker": "Web.Aplication\\Modal\\UserModel.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Modal\\UserModel.cs",
+              "RelativeToolTip": "Web.Aplication\\Modal\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:43:14.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dependency.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\API\\Dependency\\Dependency.cs",
+              "RelativeDocumentMoniker": "API\\Dependency\\Dependency.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\API\\Dependency\\Dependency.cs",
+              "RelativeToolTip": "API\\Dependency\\Dependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:40:26.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\APICore8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\APICore8\\Program.cs",
+              "ToolTip": "D:\\MyProject\\APICore8\\Program.cs",
+              "RelativeToolTip": "..\\..\\APICore8\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:14:55.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAADQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:11:59.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Infrastructure\\Authentication\\LoginService.cs",
+              "RelativeDocumentMoniker": "Web.Infrastructure\\Authentication\\LoginService.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Infrastructure\\Authentication\\LoginService.cs",
+              "RelativeToolTip": "Web.Infrastructure\\Authentication\\LoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:03:39.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MigrateDatabase.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Persistence\\Common\\MigrateDatabase.cs",
+              "RelativeDocumentMoniker": "Web.Persistence\\Common\\MigrateDatabase.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Persistence\\Common\\MigrateDatabase.cs",
+              "RelativeToolTip": "Web.Persistence\\Common\\MigrateDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:00:53.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Persistence\\Common\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Web.Persistence\\Common\\DbInitializer.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Persistence\\Common\\DbInitializer.cs",
+              "RelativeToolTip": "Web.Persistence\\Common\\DbInitializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:53:38.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Persistence\\Common\\LoginService.cs",
+              "RelativeDocumentMoniker": "Web.Persistence\\Common\\LoginService.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Persistence\\Common\\LoginService.cs",
+              "RelativeToolTip": "Web.Persistence\\Common\\LoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:42:17.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Web.Aplication\\Services\\UserService.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Services\\UserService.cs",
+              "RelativeToolTip": "Web.Aplication\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:42:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Web.Aplication\\Services\\StudentService.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Services\\StudentService.cs",
+              "RelativeToolTip": "Web.Aplication\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:42:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntityAuditable.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Domain\\Common\\BaseEntityAuditable.cs",
+              "RelativeDocumentMoniker": "Web.Domain\\Common\\BaseEntityAuditable.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Domain\\Common\\BaseEntityAuditable.cs",
+              "RelativeToolTip": "Web.Domain\\Common\\BaseEntityAuditable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:41:58.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Interface\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Web.Aplication\\Interface\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\MyProject\\WebBase\\WebApp\\Web.Aplication\\Interface\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Web.Aplication\\Interface\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:41:49.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
