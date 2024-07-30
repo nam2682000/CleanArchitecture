@@ -8,7 +8,7 @@ using Web.Aplication.Modal;
 
 namespace Web.Aplication.Features.Course.Command.Handdle
 {
-    public class GetStudentListQuery :  IRequest<List<StudentDetails>>
+    public class GetStudentListQuery :  IRequest<List<Domain.Entities.Student>>
     {
     }
 }

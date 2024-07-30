@@ -14,4 +14,8 @@
     <PackageReference Include="MediatR" Version="11.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Modal\Respon\Student\" />
+  </ItemGroup>
+
 </Project>

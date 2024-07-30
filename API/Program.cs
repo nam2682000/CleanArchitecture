@@ -1,4 +1,4 @@
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -7,14 +7,19 @@ using Microsoft.OpenApi.Models;
 using MyApp.Dependency;
 using System.Reflection;
 using System.Text;
+using Web.Aplication.Features.Course.Command.Handdle;
+using Web.Aplication.Features.Course.Command.Request;
 using Web.Domain.Entities;
+using Web.Infrastructure.DbContext;
 using Web.Persistence.Common;
-using Web.Persistence.DbContext;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
+
 // Add services to the container.
 builder.Services.AddControllers();
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(CreateStudentCommand).Assembly));
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(GetStudentListQuery).Assembly));
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
@@ -52,6 +57,7 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString, sqlOptions =>
     {
+        sqlOptions.MigrationsAssembly("API");
         sqlOptions.CommandTimeout(60); // Set command timeout to 60 seconds
     })
 );
@@ -60,7 +66,7 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
         .AddEntityFrameworkStores<ApplicationDbContext>()
         .AddDefaultTokenProviders();
 
-Dependency.DependencyInjection(builder.Services);
+builder.Services.DependencyInjection();
 
 
 // Configure JWT authentication+

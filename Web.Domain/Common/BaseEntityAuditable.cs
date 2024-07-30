@@ -1,6 +1,8 @@
-﻿namespace Web.Domain.Common
+﻿using Web.Domain.Common.Interfaces;
+
+namespace Web.Domain.Common
 {
-    public abstract class BaseEntityAuditable<T>
+    public abstract class BaseEntityAuditable<T> : IAuditableEntity<T>
     {
         public T Id { get; set; }
         public Guid CreatedBy { get; set; }

@@ -1,7 +1,7 @@
 ﻿using System.Linq.Expressions;
 using Web.Domain.Common.Interfaces;
 
-namespace Web.Aplication.Interface.Repositories
+namespace Web.Aplication.Interface.Repositories.Common
 {
     public interface IGenericRepository<T, TKey> where T : class, IEntity<TKey>
     {
